@@ -1,7 +1,7 @@
-# \[Group name\]
+# Team Isengard
 
 **Group members:**
-- A
+- Alexander Rytter Bazaz
 - B
 - C
 
