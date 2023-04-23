@@ -2,8 +2,6 @@
 
 **Group members:**
 - Alexander Rytter Bazaz
-- B
-- C
 
 This repository contains  
 1. Inaugural project. 
