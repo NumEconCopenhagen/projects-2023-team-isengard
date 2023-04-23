@@ -1,7 +1,7 @@
 # Team Isengard
 
 **Group members:**
-- Alexander Rytter Bazaz Lotus
+- Alexander Rytter Bazaz
 
 This repository contains  
 1. Inaugural project. 
